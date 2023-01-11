@@ -1,2 +1,2 @@
-# story-abaut-me
+# story-about-me
 introduction about me
